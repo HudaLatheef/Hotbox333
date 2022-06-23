@@ -25,4 +25,7 @@ Hotbox is a food delivery app includes everything from placing an order online t
 ![WhatsApp Image 2021-09-07 at 12 51 27 PM](https://user-images.githubusercontent.com/90184414/175288703-77f1e7c0-6b8a-47a1-8f6f-e358daec97d7.jpeg)
 
 
-
+#📖Features
+✅ Clean UI
+✅ Page transformer animations
+✅ No fragments(light weight)
